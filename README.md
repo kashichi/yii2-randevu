@@ -2,7 +2,7 @@
 Randevu Modülü
 
 # Hakkında
-Bu modül aracılığıyla şikayet oluşturulabilir.
+Bu modül aracılığıyla randevu oluşturulabilir.
 
 # Kurulum
 
