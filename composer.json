@@ -1,0 +1,36 @@
+{
+"name": "kashichi/yii2-randevu",
+"description": "Yii2 Randevu Modulü",
+"type": "yii2-extension",
+"license": "MIT",
+"authors": [
+{
+"name": "kashichi",
+"email": "180201030@kocaeli.edu.tr",
+"role": "Developer"
+}
+],
+"require": {
+"php": ">=7.0",
+"yiisoft/yii2": "~2.0.13"
+},
+"require-dev": {
+"phpunit/phpunit": "8.*.*"
+},
+"autoload": {
+"psr-4": {
+"kashichi\\Randevu\\": "src"
+}
+},
+"autoload-dev": {
+"psr-4": {
+"kashichi\\Randevu\\tests\\": "tests"
+}
+},
+"repositories": [
+{
+"type": "composer",
+"url": "https://asset-packagist.org"
+}
+]
+}
