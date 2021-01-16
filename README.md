@@ -48,7 +48,7 @@ ssh bağlantısı ile vagrant üzerinde proje ana dizinindeyken alttaki komut ç
 
 ## Migrations
 
-Modül içerisindeki migration dosyasında modül içerisinde kullanılacak 2 adet tablo oluşturulmuştur. Tablolar arasında foreign key ile ilişki kurulmuştur ve anahtar değerler için indekslemeler yapılmıştır. hasta ve randevu için 2 adet tablo bulunmaktadır. 1 adet foreign key kullanılmıştır.Tablolar arasındaki ilişki aşağıda gösterildiği şekildedir. 1 adet foreign key kullanılmıştır.
+Modül içerisindeki migration dosyasında modül içerisinde kullanılacak 2 adet tablo oluşturulmuştur. Tablolar arasında foreign key ile ilişki kurulmuştur ve anahtar değerler için indekslemeler yapılmıştır. hasta ve randevu için 2 adet tablo bulunmaktadır. 1 adet foreign key kullanılmıştır.Tablolar arasındaki ilişki aşağıda gösterildiği şekildedir.
 ![](goruntu/veritabanı.png)
 
 # Modül index sayfası aşağıdaki gibidir.
