@@ -55,3 +55,7 @@ Modül içerisindeki migration dosyasında modül içerisinde kullanılacak 2 ad
 
 ![](goruntu/RandevuListesi.png)
 
+# Modül create sayfası aşağıdaki gibidir.
+
+![](goruntu/RandevuAlma.png)
+
