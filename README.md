@@ -2,7 +2,7 @@
 Randevu Modülü
 
 # Hakkında
-Bu modül aracılığıyla randevu oluşturulabilir.
+Bu modül aracılığıyla randevu oluşturulabilir.Doktorlar dropdown menusunden seçilir.Doktorların yanındaki tarihler doktorların müsait olduğu tarihlerdir. 
 
 # Kurulum
 
